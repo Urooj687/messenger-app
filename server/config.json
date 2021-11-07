@@ -1,0 +1,7 @@
+{
+    "mongodb": {
+        "url": "mongodb+srv://root:<root>@cluster0-a0zmu.mongodb.net/<sample_messengerApp>?retryWrites=true&w=majority"
+    },
+    "domain": "http://localhost:3000"
+
+}

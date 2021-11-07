@@ -1,0 +1,9 @@
+{
+    "apiUrl": "http://localhost:4242/api",
+
+   
+
+
+    "socketHost": "http://localhost:4242"
+
+}
